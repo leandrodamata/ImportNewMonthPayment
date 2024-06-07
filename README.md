@@ -17,4 +17,9 @@ a data ficar no formato de data abreviada na nova planilha do Excel, e também o
 para manter a ordem correta, mantendo sempre o mês mais antigo por último.
 
 Este foi meu primeiro projeto utilizando Pandas para tratamento de dados, e eu achei bem divertido e tranquilo de utilizar a biblioteca.
+
+Caso queira testar o mesmo, lembre de baixar os arquivos em Excel que utilizei e trocar o caminho de leitura do arquivo do código para 
+o caminho onde salvou o arquivo no seu computador. Claro que além disso, deve possuir o Python instalado no seu computador, e instalar 
+também a biblioteca pandas, além de instalar openpyxl para que seu computador deixe o Python abrir arquivos em formato de Excel.
+
 Para o futuro pretendo realizar uma análise visual desses dados utilizando o Power BI.
